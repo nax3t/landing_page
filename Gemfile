@@ -22,7 +22,12 @@ gem 'turbolinks'
 gem 'jbuilder', '~> 2.0'
 # bundle exec rake doc:rails generates the API under doc/api.
 gem 'sdoc', '~> 0.4.0', group: :doc
-
+# Bootstrap
+gem 'twitter-bootstrap-rails'
+# Font awesome
+gem 'font-awesome-rails'
+# Glyphicons
+gem 'bootstrap-glyphicons'
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
 
